@@ -1,33 +1,24 @@
-Data Converter & Type Checker
+# Data Converter & Type Checker
 
-A Java Swing desktop application that allows users to convert numeric values between Java primitive data types and check whether a given value is compatible with different data types based on their storage limits.
+A Java Swing desktop application for converting numeric values between Java primitive data types and checking data type compatibility.
 
-Features
+## Application Screenshots
 
-* Convert values between:
+### Main Interface
 
-Byte
-Short
-Int
-Long
-Float
-Double
+![Main Interface](screenshots/screenshot1.png)
 
-* Check compatibility of a number with:
+### Conversion Example
 
-byte
-short
-int
-long
-float
-double
+![Conversion Example](screenshots/screenshot2.png)
 
-* Display valid and invalid data types based on Java range limits.
+### Compatibility Check
 
-* User-friendly graphical interface built using Java Swing.
+![Compatibility Check](screenshots/screenshot3.png)
 
-* Detailed output with conversion results and compatibility information.
+### Additional Output
 
+<<<<<<< HEAD
 * Technologies Used
 Java
 Java Swing
@@ -68,3 +59,6 @@ GUI Development with Swing
 Event-Driven Programming
 Range Validation
 Object-Oriented Programming (OOP)
+=======
+![Additional Output](screenshots/screenshot4.png)
+>>>>>>> 283c7f4 (Added screenshots to README)
