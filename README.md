@@ -28,7 +28,7 @@ double
 
 * Detailed output with conversion results and compatibility information.
 
-Technologies Used
+* Technologies Used
 Java
 Java Swing
 AWT
@@ -39,7 +39,8 @@ DataTool/
 ├── DataTool.java
 ├── DataTool.class
 └── README.md
-How It Works
+
+* How It Works
 1. Data Conversion
 Enter a numeric value.
 Select the input data type.
@@ -57,7 +58,8 @@ long range
 float range
 double range
 Results are displayed along with range information for incompatible types.
-Concepts Demonstrated
+
+*Concepts Demonstrated
 Java Primitive Data Types
 Type Casting
 Data Type Conversion
